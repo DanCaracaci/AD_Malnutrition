@@ -1,0 +1,3 @@
+În acest studiu, ne-am concentrat asupra analizei și predicției malnutriției la nivel global, folosind setul de date "Malnutrition across the globe". 
+Scopul nostru a fost de a identifica factorii de risc relevanți și de a dezvolta modele pentru a estima probabilitatea de malnutriție în diferite țări.
+Studiul nostru a utilizat setul de date " Malnutrition across the globe" disponibil pe platforma Kaggle. Acesta conține informații variate despre țări, coeficienții precum overweight, underweight, vasting, stunting și sexul, aspecte precum anul colectării datelor și PIB pe cap de locuitor.
